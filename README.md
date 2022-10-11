@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Oliveira-Pietrobon
-- 👀 I’m interested in TI
+- 👀 I’m interested in javascript
 - 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on student 
+- 💞️ I’m looking to collaborate on projetos
 - 📫 How to reach me ...
 
 <!---
