@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Oliveira-Pietrobon
 - 👀 I’m interested in TI
-- 🌱 I’m currently learning HTML, Python, C++
+- 🌱 I’m currently learning HTML, CSS, JavaScript, C
 - 💞️ I am a software engineering student
 
 <!---
