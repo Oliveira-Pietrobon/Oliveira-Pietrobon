@@ -1,7 +1,3 @@
-<div style= "text-align: center">
-<img src="./fotos/foto1.png" width="250" >
-</div>
-
 <div>
 <h1 align="center"> 🧩 Lídia Pietrobon </h1>
 <p> <b>💻 Estudante de Engenharia de Software • Python • Design & Prototipação<b>
