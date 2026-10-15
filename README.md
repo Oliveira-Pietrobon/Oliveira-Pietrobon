@@ -22,7 +22,7 @@ Python • Lógica • UX • Figma
 
  <p>Mentalidade analítica e estruturada, com foco em organização, clareza e resolução de problemas.</p>
 
- <p>Atualmente no<b> 7º período de Engenharia de Software<b>, com experiência acadêmica em:
+ <p>Atualmente no<b> 8º período de Engenharia de Software<b>, com experiência acadêmica em:
 C • C++ • JavaScript • PHP • Python</p>
 
 <p> A linguagem com a qual mais me identifico é Python, principalmente pela clareza, organização e lógica.</P>
